@@ -1,0 +1,28 @@
+body
+{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+}
+
+.card
+{
+    border:1px solid rgba(37, 36, 36, 0.926);
+    padding: 2rem;
+    margin:1rem;
+    align-items:center;
+    text-align: center;
+    background-image: linear-gradient(to right,#1FD4D4 ,#60EDED,#9DECEC);
+    
+}
+.content
+{
+    display: flex;
+    flex:wrap;
+    flex-direction: column;
+    text-align: justify;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 20px;
+    
+}
